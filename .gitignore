@@ -17,3 +17,6 @@ _minted*/
 *.vrb
 build/
 out/
+*.fdb_latexmk
+*.fls
+main.pdf
